@@ -1,7 +1,7 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="br.com.pedropaiva.giphy">
    <application
-        android:label="giphy"
+        android:label="Giphy"
         android:icon="@mipmap/ic_launcher">
         <activity
             android:name=".MainActivity"
